@@ -1,5 +1,5 @@
 //Objects Lab
 
-var playlist = {}
+var playlist = {};
 
-var playlist = { artist names: "song titles"}
+var playlist = { artist names: "song titles"};
