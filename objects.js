@@ -2,4 +2,6 @@
 
 var playlist = {}
 
-playlist = { artist names: "song titles"}
+playlist = { Michael Jackson: "Man in the Mirror", 
+  John Legend: "You and I"}
+  
