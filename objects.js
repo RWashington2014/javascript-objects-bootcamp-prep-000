@@ -6,9 +6,9 @@ var playlist = {}
 
 playlist = { artistNames: "song titles"}
 
-function updatePlaylist(obj, artistName, songTitle){
+function updatePlaylist(playlist, artistName, songTitle){
 
-  obj = { artistName: songTitle}
-    return obj
-    
+  playlist = { artistName: songTitle}
+    return playlist
+
 }
