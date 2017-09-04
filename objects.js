@@ -4,7 +4,7 @@
 
 var playlist = {}
 
-playlist = { artistNames: "song titles"}
+playlist = { artistName: "song titles"}
 
 function updatePlaylist(playlist, artistName, songTitle){
 
