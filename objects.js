@@ -1,6 +1,6 @@
 //Objects Lab
 
-var playlist = {}
 
-playlist = { Michael Jackson: "Man in the Mirror",
+
+var playlist = { Michael Jackson: "Man in the Mirror",
   John Legend: "You and I"}
