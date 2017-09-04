@@ -1,5 +1,6 @@
 //Objects Lab
 
-var playlist = new Object();
+var playlist = new Object()
 
-var playlist = { artist names: "song titles"};
+var playlist = { artist names: "song titles"}
+
